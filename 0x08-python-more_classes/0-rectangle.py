@@ -1,5 +1,5 @@
-'''Using Python3'''
 #!/usr/bin/python3
+'''Using Python3'''
 
 
 class Rectangle:
