@@ -3,6 +3,5 @@
 
 
 class Rectangle:
-    '''This class represents nothing but a rectangle.
-       Its an empty rectangle'''
+    '''This class represents nothing but a rectangle.'''
     pass
